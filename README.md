@@ -22,7 +22,7 @@ Project realised in IMAC Engineering School, in November and December 2015
 	
 #### Build
 
-	cd iSeason/build
+	cd projet-opengl/build
 	cmake ../project
 	make
 	
